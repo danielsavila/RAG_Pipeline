@@ -16,6 +16,7 @@ def build_vector_database(path):
     vdb = chromadb.Client()
     collection = vdb.create_collection(name = "policy_docs")
 
+
     nlp = English()
     nlp.add_pipe('sentencizer')
     for doc in os.listdir(path): 
