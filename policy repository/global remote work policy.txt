@@ -1,0 +1,18 @@
+Policy 1: Global Remote Work Eligibility Policy (HR-RW-001)
+
+Effective Date: January 1, 2027
+ Owner: Human Resources
+
+The purpose of this policy is to establish guidelines governing employee eligibility for remote work and to ensure compliance with organizational, legal, tax, and security requirements.
+
+Employees may work remotely from approved countries that are geographically located north of Panama, provided they comply with all applicable tax, legal, and information security requirements. To maintain eligibility, employees must submit a location declaration every 90 days. Employees are not permitted to work from unapproved locations for more than 15 consecutive calendar days without prior authorization.
+
+To support effective collaboration and business operations, remote employees must maintain a minimum of four overlapping business hours with their primary team. In addition, all employees are expected to be available during designated core collaboration hours, which are established as 10:00 AM to 2:00 PM Eastern Time.
+
+Remote work eligibility is also contingent upon satisfactory job performance. Employees must maintain a quarterly performance review score of at least 3.5 out of 5.0, achieve a project deliverable completion rate of 95% or higher, and maintain a meeting attendance rate of at least 90%.
+
+Compliance with company security standards is mandatory for all remote employees. Company-issued devices must be used for all work-related activities, resulting in a required compliance rate of 100%. Employees must maintain 100% compliance with multi-factor authentication requirements and complete all assigned security training within 30 days of assignment. Additionally, employees must maintain a VPN usage compliance rate of 99% or higher to ensure secure access to company systems and data.
+
+Human Resources and Information Technology departments will jointly monitor compliance with this policy and conduct formal reviews on a quarterly basis. These reviews will assess adherence to remote work requirements and identify any areas requiring corrective action.
+
+Remote work privileges may be suspended when employees fail to meet established performance, attendance, or security standards. Specifically, suspension may occur if an employee’s performance review score falls below 3.0 out of 5.0 for two consecutive review periods, if the employee accumulates more than two security violations within a 12-month period, or if meeting attendance falls below 85%. These measures are intended to ensure that remote work arrangements continue to support organizational effectiveness, productivity, and security.

@@ -1,0 +1,18 @@
+Policy 2: Customer Support Service Level Policy (CS-SLA-002)
+
+Effective Date: January 1, 2027
+ Owner: Customer Success Department
+
+The purpose of this policy is to establish customer support service standards and define measurable response and resolution objectives to ensure timely, effective, and consistent support for customers.
+
+Customer support teams are required to meet specific service-level targets based on ticket priority. Critical issues must receive an initial response within 15 minutes and be resolved within 4 hours. High-priority tickets must receive an initial response within 1 hour and be resolved within 8 hours. Medium-priority tickets must receive an initial response within 4 hours and be resolved within 24 hours. Low-priority tickets must receive an initial response within one business day and be resolved within three business days.
+
+To maintain service excellence, support teams are expected to achieve a first-response SLA compliance rate of at least 98% and a resolution SLA compliance rate of at least 95%. Customer Satisfaction Scores (CSAT) must average 4.5 out of 5.0 or higher. In addition, the escalation rate must remain below 10%, and the ticket reopen rate must remain below 5%.
+
+Appropriate staffing levels are required to support these objectives. The organization will maintain a minimum coverage ratio of one support analyst for every 250 active customers. Support queues must be monitored at intervals no greater than 15 minutes, and 24x7 after-hours coverage must be provided for all Critical incidents.
+
+To ensure consistent service quality, each support analyst must undergo a minimum of 10 ticket audits per month, maintain a quality score of at least 90%, and complete all required training programs, resulting in a training completion rate of 100%.
+
+Support performance will be monitored through dashboards that are reviewed monthly by department leadership. These reviews will assess compliance with established service standards and identify opportunities for improvement.
+
+If performance falls below acceptable levels, corrective action plans will be required. Remediation measures must be implemented whenever the Customer Satisfaction Score falls below 4.2, SLA compliance drops below 90%, or analyst quality scores remain below 85% for two consecutive months.

@@ -1,0 +1,20 @@
+Policy 3: Information Security Awareness Policy (SEC-TRN-003)
+
+Effective Date: January 1, 2027
+ Owner: Information Security Office
+
+The purpose of this policy is to ensure that all employees maintain an appropriate level of cybersecurity awareness and possess the knowledge required to identify, prevent, and report security threats that may affect the organization.
+
+All employees are required to complete mandatory cybersecurity training programs designed to reinforce security best practices and promote a culture of information security. Security Awareness Training must be completed annually, Phishing Recognition Training must be completed every six months, and Data Protection Training must be completed every twelve months. These training requirements apply to all employees, regardless of role or location.
+
+To ensure organizational compliance with training obligations, the organization will maintain a training completion rate of at least 98%. New employees must complete all required onboarding security training within 14 days of their start date. Managers are responsible for monitoring employee completion status and conducting compliance reviews, with a required manager compliance review rate of 100%.
+
+The Information Security Office will conduct a minimum of six phishing simulation exercises each year to evaluate employee readiness and reinforce awareness of social engineering threats. These simulations will include randomized testing across all departments to ensure broad participation and representative results. The organization seeks to maintain a phishing email click rate below 4%, a credential submission rate below 1%, and a suspicious email reporting rate greater than 75%. These metrics are designed to measure employee resilience against phishing attacks and encourage proactive threat reporting.
+
+Employees are required to promptly report suspected security incidents to minimize risk and support timely response efforts. Suspected high-risk security incidents must be reported within 30 minutes of discovery, while standard security incidents must be reported within four hours. Adherence to these reporting timelines is critical to protecting organizational assets and limiting potential impacts from security events.
+
+Departmental cybersecurity compliance will be evaluated on a quarterly basis using established performance measures. Departments are expected to achieve a training completion score of 98%, an incident reporting score of 95%, a phishing resistance score of 96%, and a policy acknowledgment rate of 100%. These metrics provide a standardized framework for assessing departmental adherence to information security requirements and identifying opportunities for improvement.
+
+The organization will enforce this policy through regular compliance monitoring and performance reviews. Departments that fail to achieve an overall compliance score of at least 90% will be required to implement formal remediation plans and participate in executive-level review processes. These corrective measures are intended to address identified deficiencies, improve security awareness, and ensure continued compliance with organizational security standards.
+
+This policy establishes clear security awareness expectations, measurable performance indicators, and accountability mechanisms to support the organization's commitment to protecting information assets and maintaining a strong cybersecurity posture.
