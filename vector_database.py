@@ -4,9 +4,10 @@ import spacy
 from spacy.lang.en import English
 from sentence_transformers import SentenceTransformer
 
+path = 'C:/Users/daniel.avila/Documents/Github Repos/RCAC/one off projects/RAG_Pipeline/policy repository'
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
 def build_vector_database():
-    path = 'C:/Users/daniel.avila/Documents/Github Repos/RCAC/one off projects/RAG_Pipeline/policy repository'
-    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
     # first intializde the database
     # that this db is persistent, so files will be saved to disk
@@ -32,5 +33,3 @@ def build_vector_database():
                 documents = sentences,
                 ids = ids,
                 metadatas = [{'source': doc_name} for _ in sentences])
-                
-    return vdb, collection
