@@ -6,7 +6,7 @@
 '''
 from vector_database import build_vector_database
 
-def augmenting_query():
+def augmented_query():
     vdb, collection = build_vector_database()
 
     # get a query from the user
@@ -23,5 +23,3 @@ def augmenting_query():
 
     context = [doc for doc in result["documents"]]
     return context
-
-augmenting_query()
